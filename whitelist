@@ -1,9 +1,0 @@
-# Whitelist for unbound-blacklist by Joel A. Nilsson <joel@alikzus.se>
-################################################################################
-
-# Tv4play; will not stream on the Chromecast if blocked. If unblocked it will
-# stream, but with commercials.
-d2wy8f7a9ursnm.cloudfront.net
-
-################################################################################
-# Last Changed: 2017-01-14 14:03:56 CET
